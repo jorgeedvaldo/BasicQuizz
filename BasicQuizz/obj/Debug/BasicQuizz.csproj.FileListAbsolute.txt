@@ -1,0 +1,14 @@
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\bin\Debug\BasicQuizz.exe.config
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\bin\Debug\BasicQuizz.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\bin\Debug\BasicQuizz.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.Form1.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.Properties.Resources.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.csproj.GenerateResource.Cache
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.exe
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.pdb
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.CaixaMensagem.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.MenuPrincipal.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.Status.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.WinnerScreen.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\obj\Debug\BasicQuizz.Sobre.resources
+C:\Users\Edvaldo\Documents\Visual Studio 2012\Projects\BasicQuizz\BasicQuizz\bin\Debug\MetroFramework.dll
